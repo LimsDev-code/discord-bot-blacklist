@@ -28,4 +28,20 @@ A Discord bot that allows server administrators to manage a blacklist of users. 
 3. Replace YOUR_BOT_TOKEN_HERE in bot.py with your actual bot token.
 
 4. run : python bot.py
+   
+Commands:
 
+/blacklist
+Description: Blacklist a member and ban them from all servers.
+Usage: /blacklist <member>
+Permissions: Requires the bot to have Ban Members permission in all servers.
+/unblacklist
+Description: Remove a member from the blacklist and unban them from all servers.
+Usage: /unblacklist <member>
+Permissions: Requires the bot to have Ban Members permission in all servers.
+
+
+Notes:
+
+Ensure the bot has the necessary permissions (Ban Members) in all servers it is added to.
+The bot must be invited with the appropriate OAuth2 scopes to use slash commands.
