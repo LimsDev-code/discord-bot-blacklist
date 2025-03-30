@@ -22,3 +22,10 @@ A Discord bot that allows server administrators to manage a blacklist of users. 
    ```bash
    git clone https://github.com/LimsDev-code/discord-blacklist-bot.git
    cd discord-blacklist-bot
+
+2. pip install -r requirements.txt
+
+3. Replace YOUR_BOT_TOKEN_HERE in bot.py with your actual bot token.
+
+4. run : python bot.py
+
