@@ -41,10 +41,11 @@ Usage: /unblacklist <member>
 Permissions: Requires the bot to have Ban Members permission in all servers.
 
 
-##Notes:
+## Notes:
 
 Ensure the bot has the necessary permissions (Ban Members) in all servers it is added to.
 The bot must be invited with the appropriate OAuth2 scopes to use slash commands.
 
-##Disclaimer
+## Disclaimer
+
 Use this bot responsibly. Ensure you comply with Discord's Terms of Service and Community Guidelines.
