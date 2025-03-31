@@ -29,7 +29,7 @@ A Discord bot that allows server administrators to manage a blacklist of users. 
 
 4. run : python bot.py
    
-##Commands:
+## Commands:
 
 /blacklist
 Description: Blacklist a member and ban them from all servers.
